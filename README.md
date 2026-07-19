@@ -1,4 +1,4 @@
-# Post-Quantum Notary Scheme for Blockchain Interoperability (PQ-NS-IOP)
+# Post-Quantum Notary Scheme for Blockchain Interoperability 
 
 **This solution** is a blockchain interoperability bridge simulation based on the Notary Scheme protocol, implemented in **Go**.  
 
